@@ -65,7 +65,7 @@
 
 [<img src="https://img.shields.io/badge/Behance-282C34?logo=behance" alt="Behance logo" title="Stack Overflow" height="25" />](https://www.behance.net/chekunovLimited)
 &nbsp;
-[<img src="https://img.shields.io/badge/Vk-282C34?logo=vk" alt="VK logo" title="VK" height="25" />](https://vk.com/chekunowggg)
+[<img src="https://img.shields.io/badge/Vk-282C34?logo=vk&logoColor=0077FF" alt="VK logo" title="VK" height="25" />](https://vk.com/chekunowggg)
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
